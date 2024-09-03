@@ -1,0 +1,6 @@
+//without space between two words//
+ print("Hello" + "Sihi")
+//If you want to merge two words the use single pulse symbol//
+
+//space between two words//
+print("Hello" + " " + "Sihi")
