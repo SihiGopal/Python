@@ -1,0 +1,21 @@
+//Using input statement//
+
+name = input("What is your name?")
+print(name)
+Output:What is your name? Sihi
+
+//Without input statement//
+
+name = "Sihi"
+print(name)
+Output:Sihi
+
+//Variables can be changed accordingly,variables can be varied//
+
+name = "Sihi"
+print(name)
+name = "Gopal"
+print(name)
+
+Output:Sihi
+       Gopal
