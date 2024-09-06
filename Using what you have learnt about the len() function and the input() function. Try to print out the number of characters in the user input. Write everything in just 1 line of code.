@@ -1,0 +1,13 @@
+print(len(input("Where do you Stay?")))      //Output:Where do you stay?Bengaluru
+                                                      9//
+
+                                    (OR)
+
+name = "Sihi"
+print(len(name))                            //Output:4//
+
+                                    (OR)
+
+name=input("Where do you Stay?")
+print(len(name))                            //Output : Where do you stay? Nagaland
+                                                       9//
